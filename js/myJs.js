@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "He luu cậu!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Kiều có muốn đi chơi với tui hông nahhh ._.",
+  text3: "Muốn sang thì bắc cầu Kiều. Liệu chiều mùng tết Kiều có rảnh không._.",
   text4: "Nếu cậu ko trả lời tức là đồng ý rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: " Ỏooooo kiii leeeee <3",
